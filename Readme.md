@@ -18,5 +18,6 @@ And then
     
     ruby simulate_prediction.rb
     
-And then
--> Be glad that you didn't invest money and used this stupit method!
+And then...
+
+-> Well not profit, but at least you didn't lose anything!
