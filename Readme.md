@@ -7,7 +7,7 @@ What would have happened had i invested 100 euros into bitcoins on january first
 # Answer
 I would end up with 37.93 euros left. Basically you can make quite a nice prediction, but because of the exchange fees, you don't profit from it.
 
-# usage:
+# Usage:
 First download this https://api.bitcoinaverage.com/history/EUR/per_day_all_time_history.csv and save it as historic\_btc\_eur.csv
 
 Next, run 
